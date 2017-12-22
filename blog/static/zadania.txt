@@ -1,0 +1,5 @@
+1. Django filter attr_name conventions - what we can find there?,
+
+ * find resource where can i find some information about it,
+
+2. Rozkminka działania debuggera Django
